@@ -1,6 +1,6 @@
 SILBACO
 GUIÓN NARRATIVO — "El Silbaco"
-ESCENA 1 — DESPERTAR
+ESCENA 1 — DESPERTARR
 Lugar: Plaza Luis de Fuentes, Tarija.
 Hora: Madrugada, 2:43 AM.
 El sonido de los grillos y un viento seco rompen el silencio.
